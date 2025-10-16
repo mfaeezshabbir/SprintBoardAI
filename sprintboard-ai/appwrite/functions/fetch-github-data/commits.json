@@ -1,0 +1,28 @@
+{
+  "repo": "octocat/Hello-World",
+  "fetched_at": "2025-10-16T10:19:44.024Z",
+  "count": 3,
+  "commits": [
+    {
+      "sha": "abc123",
+      "author": "alice",
+      "message": "feat: add user login",
+      "date": "2025-10-16T10:19:44.023Z",
+      "url": null
+    },
+    {
+      "sha": "def456",
+      "author": "bob",
+      "message": "fix: bug in auth",
+      "date": "2025-10-16T10:19:44.024Z",
+      "url": null
+    },
+    {
+      "sha": "ghi789",
+      "author": "alice",
+      "message": "refactor: improve session handling",
+      "date": "2025-10-16T10:19:44.024Z",
+      "url": null
+    }
+  ]
+}
